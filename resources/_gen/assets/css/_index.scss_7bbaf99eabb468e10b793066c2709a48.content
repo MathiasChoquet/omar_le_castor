@@ -1,8 +1,8 @@
 :root {
   /* === Cover / Landing area === */
-  --cover-text-color: #37501a;
+  --cover-text-color: #3e3418;
   /* Used for Landing screen menu buttons, but potentially usable for highlighting other things */
-  --highlight: #86c440;
+  --highlight: #a2a72d;
   --highlight-contrast: var(--cover-text-color);
   /*inverse colors used for :hover */
   --highlight-inverse: var(--cover-text-color);
@@ -20,7 +20,7 @@
   /* Dark section - text color */
   --section-dark-text-color: var(--section-light-bg-color);
   /* Dark section - background color */
-  --section-dark-bg-color: #b80135;
+  --section-dark-bg-color: #a2a72d;
   /* Light&Dark section >quote. Suppressive color, compared to 'Light section - text color'*/
   --section-uni-quote: grey;
   /* Light&Dark section `code` a bit darker than 'Light section - background color' */
@@ -29,7 +29,7 @@
   --single-page-text-color: var(--section-light-text-color);
   --single-page-bg-color: var(--section-light-bg-color);
   /* === Footer === */
-  --footer-color-background: #22343a;
+  --footer-color-background: #3e3418;
   --footer-color: #bbc7cc;
   /* === Lists === */
   /* define list element for unnumbered lists, leave empty for default list element */
@@ -80,8 +80,8 @@ body {
     border-radius: 25px;
     width: fit-content; }
   #site-head .blog-title, #site-head.withCenteredImage .blog-title {
-    margin: 10px 0 10px 0;
-    font-size: 5rem;
+    margin: 8px 0 10px 0;
+    font-size: 4rem;
     letter-spacing: -1px;
     text-shadow: var(--cover-title-text-shadow); }
   #site-head .blog-description, #site-head.withCenteredImage .blog-description {

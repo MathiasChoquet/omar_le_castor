@@ -1,15 +1,15 @@
 ---
 # Striking header background image, Ideal images are homogenous around the centre and contrasting to the text. Non-ideal images can use `title_guard`
-header_image: "images/cover-image.jpg"
+header_image: "images/fond_v2.jpg"
 #
 # When set true, uses video from custom_header_video.html partial, instead of header_image
 header_use_video: false
 #
 # Optional header logo. CSS: `#blog-logo`, with max-height defined, optimize to prevent scaling
-header_logo: "images/chef-hat.png"
+header_logo: "images/CC-logo.svg.png"
 #
 # Headers are safeHTML, you can use HTML tags such as b,i,u,br
-header_headline: "Omar le Castor et les Robots à Bulles"
+header_headline: "Omar le Castor & les Robots à Bulle"
 header_subheadline: "<b>Créé</b> l'animation pour ce <b>Conte Musical</b>"
 
 # Add a 'Go back to top' item to the navigation menu

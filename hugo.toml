@@ -109,3 +109,8 @@ enableEmoji = true
     weight = 20
     contentDir = "content/de"
     languageName = "Deutsch"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true

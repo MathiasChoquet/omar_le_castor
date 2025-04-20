@@ -1,6 +1,6 @@
 ---
-title: "Les personnages"
-weight: 3
+title: "Les décors"
+weight: 4
 header_menu: true
 ---
 
